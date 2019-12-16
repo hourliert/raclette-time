@@ -1,0 +1,24 @@
+{
+  "cheeses": [
+    {
+      "id": 1,
+      "title": "Raclette",
+      "price": 5.4
+    },
+    {
+      "id": 2,
+      "title": "Camembert",
+      "price": 2.1
+    },
+    {
+      "id": 3,
+      "title": "Morbier",
+      "price": 6.4
+    },
+    {
+      "id": 4,
+      "title": "Livaro",
+      "price": 4.5
+    }
+  ]
+}
