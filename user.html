@@ -5,11 +5,18 @@
       Raclette Time!
     </h1>
 
-    <a href="user.html">Logged in Users Page</a>
+    <h2>
+      But only for users
+    </h2>
+
+    <a href="/user.html">Logged in Users Page</a>
 
     <script>
       window.intercomSettings = {
-        app_id: "vfo4t949"
+        app_id: "vfo4t949",
+        name: "The Raclette User", // Full name
+        email: "user@raclette.com", // Email address
+        created_at: +new Date() // Signup date as a Unix timestamp
       };
     </script>
 
